@@ -1,8 +1,8 @@
 ---
 
-# Netflix Clone
+# Staff Dashboard
 
-Welcome to the Netflix Clone project! This is a simple web application that mimics the look and feel of Netflix's user interface.
+This project is a demo model created as part of my HTML learning journey. It showcases a simple Staff Dashboard built using basic web technologies like HTML, CSS, and JavaScript. The dashboard is designed to demonstrate layout structure, UI elements, and responsive design principles.
 
 ## Table of Contents
 
@@ -19,23 +19,26 @@ Welcome to the Netflix Clone project! This is a simple web application that mimi
 
 ## Project Overview
 
-This project is a web-based clone of Netflix, designed to provide a similar user experience with a focus on layout and design. It showcases basic features like a navigation bar, movie listings, and a user interface similar to Netflix using HTML and CSS only.
+The Staff Dashboard is a demo web project developed to practice and demonstrate fundamental HTML, CSS, and JavaScript concepts. It provides a simple interface for managing and viewing staff-related information, such as profiles, roles, and activity data. The project focuses on creating a clean and user-friendly layout while exploring responsive design and front-end structure.
 
 ## Features
 
-- Responsive design
-- Navigation bar with logo
-- Movie cards with images and titles
-- Modal for movie details (optional)
+- Staff Management Interface – Displays staff details like name, role, and department.
+- Responsive Dashboard Layout – Adapts seamlessly to different screen sizes.
+- Clean and Modern UI – Simple design built using HTML, CSS and Js for easy customization.
+- Data Representation – Sections for tables, statistics, or charts to visualize staff data.
+- Search Options – Quickly find staff members based on criteria.
+- Lightweight and Fast – No frameworks required; runs directly in the browser.
 
 ## Technologies Used
 
-- **HTML**: Structure and content
-- **CSS**: Styling and layout
+- HTML5 – For structuring the dashboard layout and content.
+- CSS3 – For styling, layout design, and responsiveness.
+- JavaScript – For adding interactivity and dynamic behavior.
 
 ## Tools Used
 
-- **VS Code**
+- VS Code
 
 ## Installation
 
@@ -44,13 +47,13 @@ To set up this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akasshpm/netflix-clone.git
+   git clone https://github.com/akasshpm/Staff-Dashboard.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd netflix-clone
+   cd Staff-Dashboard
    ```
 
 3. Open the `index.html` file in your web browser to view the project.
@@ -69,18 +72,32 @@ To set up this project locally, follow these steps:
 
 ## Usage
 
-- Open `index.html` in your browser to view the Netflix clone.
+- Open `index.html` in your browser to view the Staff Dashboard.
 - Use the navigation bar to explore different sections of the site.
 
 ## Project Demo
 
-![Screenshot 2024-07-27 023531](https://github.com/user-attachments/assets/f233d6ba-0012-40ca-98e3-7cb9b9a212c3)
+<img width="1919" height="916" alt="Screenshot 2025-10-29 005213" src="https://github.com/user-attachments/assets/af6415f4-f7e4-4cf4-9473-ca6ab6a258f1" />
 
-![Screenshot 2024-07-27 023553](https://github.com/user-attachments/assets/96b1e8c0-30a7-4b6a-9e0c-f493226eb3c8)
+<img width="1919" height="918" alt="Screenshot 2025-10-29 005240" src="https://github.com/user-attachments/assets/1d3089e1-bbb6-4522-a17c-a58c889c4fb3" />
 
-![Screenshot 2024-07-27 023617](https://github.com/user-attachments/assets/caaa39a5-11f5-4b48-a73e-406460ab9a7b)
+<img width="1919" height="914" alt="Screenshot 2025-10-29 005253" src="https://github.com/user-attachments/assets/f25a33f7-e391-488a-8fd7-20b2ae764a66" />
 
-![Screenshot 2024-07-27 023605](https://github.com/user-attachments/assets/8e2c9799-5646-4270-9fe7-788fdcbb8d82)
+<img width="1916" height="914" alt="Screenshot 2025-10-29 005300" src="https://github.com/user-attachments/assets/ecaf3b86-74e9-4fb2-af16-192bac1424dd" />
+
+<img width="1919" height="906" alt="Screenshot 2025-10-29 005331" src="https://github.com/user-attachments/assets/a1ed7ab4-af23-40d3-bb72-eaae4a6ec584" />
+
+<img width="1919" height="913" alt="Screenshot 2025-10-29 005320" src="https://github.com/user-attachments/assets/f4d792af-999e-4c13-ba4a-9962fea8ea47" />
+
+<img width="1919" height="913" alt="Screenshot 2025-10-29 005348" src="https://github.com/user-attachments/assets/0adf55bb-e796-406b-8721-5ccc45561107" />
+
+
+
+
+
+
+
+
 
 
 ## Contributing
