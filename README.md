@@ -77,19 +77,19 @@ To set up this project locally, follow these steps:
 
 ## Project Demo
 
-<img width="1919" height="916" alt="Screenshot 2025-10-29 005213" src="https://github.com/user-attachments/assets/af6415f4-f7e4-4cf4-9473-ca6ab6a258f1" />
+<img width="1919" height="916" alt="Screenshot 2025-10-29 005213" src="https://github.com/user-attachments/assets/af6415f4-f7e4-4cf4-9473-ca6ab6a258f1" /><br><br>
 
-<img width="1919" height="918" alt="Screenshot 2025-10-29 005240" src="https://github.com/user-attachments/assets/1d3089e1-bbb6-4522-a17c-a58c889c4fb3" />
+<img width="1919" height="918" alt="Screenshot 2025-10-29 005240" src="https://github.com/user-attachments/assets/1d3089e1-bbb6-4522-a17c-a58c889c4fb3" /><br><br>
 
-<img width="1919" height="914" alt="Screenshot 2025-10-29 005253" src="https://github.com/user-attachments/assets/f25a33f7-e391-488a-8fd7-20b2ae764a66" />
+<img width="1919" height="914" alt="Screenshot 2025-10-29 005253" src="https://github.com/user-attachments/assets/f25a33f7-e391-488a-8fd7-20b2ae764a66" /><br><br>
 
-<img width="1916" height="914" alt="Screenshot 2025-10-29 005300" src="https://github.com/user-attachments/assets/ecaf3b86-74e9-4fb2-af16-192bac1424dd" />
+<img width="1916" height="914" alt="Screenshot 2025-10-29 005300" src="https://github.com/user-attachments/assets/ecaf3b86-74e9-4fb2-af16-192bac1424dd" /><br><br>
 
-<img width="1919" height="906" alt="Screenshot 2025-10-29 005331" src="https://github.com/user-attachments/assets/a1ed7ab4-af23-40d3-bb72-eaae4a6ec584" />
+<img width="1919" height="906" alt="Screenshot 2025-10-29 005331" src="https://github.com/user-attachments/assets/a1ed7ab4-af23-40d3-bb72-eaae4a6ec584" /><br><br>
 
-<img width="1919" height="913" alt="Screenshot 2025-10-29 005320" src="https://github.com/user-attachments/assets/f4d792af-999e-4c13-ba4a-9962fea8ea47" />
+<img width="1919" height="913" alt="Screenshot 2025-10-29 005320" src="https://github.com/user-attachments/assets/f4d792af-999e-4c13-ba4a-9962fea8ea47" /><br><br>
 
-<img width="1919" height="913" alt="Screenshot 2025-10-29 005348" src="https://github.com/user-attachments/assets/0adf55bb-e796-406b-8721-5ccc45561107" />
+<img width="1919" height="913" alt="Screenshot 2025-10-29 005348" src="https://github.com/user-attachments/assets/0adf55bb-e796-406b-8721-5ccc45561107" /><br><br>
 
 
 
